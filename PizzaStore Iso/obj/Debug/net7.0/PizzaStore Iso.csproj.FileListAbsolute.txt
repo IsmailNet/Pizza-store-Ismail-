@@ -1,0 +1,30 @@
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.deps.json
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.runtimeconfig.json
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.dll
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.pdb
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.csproj.AssemblyReference.cache
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.AssemblyInfoInputs.cache
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.AssemblyInfo.cs
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.csproj.CoreCompileInputs.cache
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.dll
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/refint/PizzaStore Iso.dll
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.pdb
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.genruntimeconfig.cache
+/Users/ismailmagid/Projects/PizzaStore Iso/PizzaStore Iso/obj/Debug/net7.0/ref/PizzaStore Iso.dll
+/Users/ismailmagid/Desktop/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso
+/Users/ismailmagid/Desktop/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.deps.json
+/Users/ismailmagid/Desktop/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.runtimeconfig.json
+/Users/ismailmagid/Desktop/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.dll
+/Users/ismailmagid/Desktop/PizzaStore Iso/bin/Debug/net7.0/PizzaStore Iso.pdb
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.csproj.AssemblyReference.cache
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.AssemblyInfoInputs.cache
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.AssemblyInfo.cs
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.csproj.CoreCompileInputs.cache
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.dll
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/refint/PizzaStore Iso.dll
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.pdb
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/PizzaStore Iso.genruntimeconfig.cache
+/Users/ismailmagid/Desktop/PizzaStore Iso/obj/Debug/net7.0/ref/PizzaStore Iso.dll
